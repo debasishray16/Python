@@ -1,3 +1,5 @@
+# UDP is a connectionless protocol. It does not care whether packet has reached or not to the destination host.
+
 import socket
 from socket import *
 
